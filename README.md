@@ -7,6 +7,10 @@ Android App that demonstrates Google-fit. Collects steps taken, calories burned 
 ##### JRE 1.7 or greater
 ##### Gradle 2.2.3
 ### SDK Versions
+![alt text](https://github.com/vaikzs/GoogleFit_POC/blob/master/Screenshot_20180405-134907.png "Logo Title Text 1")
+![alt text](https://github.com/vaikzs/GoogleFit_POC/blob/master/Screenshot_20180405-134910.png "Logo Title Text 1")
+![alt text](https://github.com/vaikzs/GoogleFit_POC/blob/master/Screenshot_20180405-134918.png "Logo Title Text 1")
+![alt text](https://github.com/vaikzs/GoogleFit_POC/blob/master/Screenshot_20180405-134922.png "Logo Title Text 1")
 
 ``
      Compile Version 25
