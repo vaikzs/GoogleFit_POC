@@ -1,18 +1,21 @@
 
 ## About
-Android App that demonstrates Google-fit. Collects steps taken, calories burned and distance moved.
+Android App that uses inbuilt sensors such as Accelerometer, Step counter, and Significant Motion counter and demonstrates Google-fit functionalities. Collects steps taken, activity, calories burned and distance covered.
+
+<img src="https://github.com/vaikzs/GoogleFit_POC/blob/master/Screenshot_20180405-134907.png" alt="Overall Process" height="270"> 
+
+<img src="https://github.com/vaikzs/GoogleFit_POC/blob/master/Screenshot_20180405-134910.png" alt="Overall Process" height="270"> 
+
+<img src="https://github.com/vaikzs/GoogleFit_POC/blob/master/Screenshot_20180405-134918.png" alt="Overall Process" height="270"> 
+
+<img src="https://github.com/vaikzs/GoogleFit_POC/blob/master/Screenshot_20180405-134922.png" alt="Overall Process" height="270"> 
+
 ## Platforms
 ##### Android Studio 2.2.3
 ##### JDK 1.7 or greater
 ##### JRE 1.7 or greater
 ##### Gradle 2.2.3
 ### SDK Versions
-
-<img src="https://github.com/vaikzs/GoogleFit_POC/blob/master/Screenshot_20180405-134907.png" alt="Overall Process" height="270"> 
-<img src="https://github.com/vaikzs/GoogleFit_POC/blob/master/Screenshot_20180405-134910.png" alt="Overall Process" height="270"> 
-<img src="https://github.com/vaikzs/GoogleFit_POC/blob/master/Screenshot_20180405-134918.png" alt="Overall Process" height="270"> 
-<img src="https://github.com/vaikzs/GoogleFit_POC/blob/master/Screenshot_20180405-134922.png" alt="Overall Process" height="270"> 
-
 ``
      Compile Version 25
 ``
